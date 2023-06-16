@@ -3,6 +3,7 @@ Unit tests for the translator module.
 """
 
 import unittest
+import translator
 
 class TestTranslator(unittest.TestCase):
     """
